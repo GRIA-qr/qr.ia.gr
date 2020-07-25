@@ -318,6 +318,9 @@ button{
 
 /* = Icons
 -------------------------------------------------------------- */
+.icon-sm{
+	font-size:18px!important;
+}
 .icon-md{
 	font-size:30px!important;
 }
@@ -473,8 +476,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 		height:120px;
 	}
 	.img-bloc-0-style{
-		width:600px;
-		height:500px;
+		;
 	}
 	
 }
