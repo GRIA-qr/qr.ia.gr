@@ -301,13 +301,6 @@ a:hover{text-decoration: none; cursor:pointer;}
 	transform: rotate(-90deg);
 }
 
-/* = Bric adjustment margins
--------------------------------------------------------------- */
-
-.mg-md{
-	margin-top:10px;
-	margin-bottom:20px;
-}
 
 /* = Buttons
 -------------------------------------------------------------- */
@@ -325,9 +318,6 @@ button{
 
 /* = Icons
 -------------------------------------------------------------- */
-.icon-sm{
-	font-size:18px!important;
-}
 .icon-md{
 	font-size:30px!important;
 }
@@ -390,12 +380,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* = Colour
 -------------------------------------------------------------- */
 
-
-/* Text colour styles */
-
-.tc-cool-grey{
-	color:#7394B0!important;
-}
 
 /* Bloc image backgrounds */
 
@@ -465,9 +449,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 
 @media (max-width: 991px){
-	.h1-style{
-		font-family:Lobster;
-	}
 	
 	/* MD Row Margin Offsets */
 	.voffset-md{
@@ -477,10 +458,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 
 @media (max-width: 767px){
-	.h1-style{
-		font-family:"Oleo Script";
-		font-weight:700;
-	}
 	.h1-15200-style{
 		font-family:"Oleo Script";
 	}
@@ -490,6 +467,14 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.h1-14448-style{
 		font-family:Roboto;
 		font-weight:100;
+	}
+	.navbar-brand img{
+		width:120px;
+		height:120px;
+	}
+	.img-bloc-0-style{
+		width:600px;
+		height:500px;
 	}
 	
 }
