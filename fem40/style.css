@@ -353,6 +353,24 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	.h6-5-style{
 		font-family:"GFS Neohellenic";
 	}
+	.h2-1-style{
+		font-family:"GFS Neohellenic";
+	}
+	.h5-1-style{
+		font-family:"GFS Neohellenic";
+	}
+	.img-style{
+		height:300px;
+	}
+	.h2-feature-title-style{
+		font-family:"GFS Neohellenic";
+	}
+	.h3-1-style{
+		font-family:"GFS Neohellenic";
+	}
+	.p-style{
+		font-family:"GFS Neohellenic";
+	}
 	
 }
 
