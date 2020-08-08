@@ -312,9 +312,6 @@ button{
 .icon-sm{
 	font-size:18px!important;
 }
-.icon-md{
-	font-size:30px!important;
-}
 
 
 
@@ -441,6 +438,15 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	   height: 320px;
     }
 }
+
+@media (max-width: 991px){
+	.img-style{
+		width:400px;
+		height:400px;
+	}
+	
+}
+
 @media (max-width: 767px){
 	.h1-15200-style{
 		font-family:"Oleo Script";
